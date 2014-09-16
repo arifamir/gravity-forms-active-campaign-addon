@@ -29,7 +29,7 @@ Do whatever you want with it. A linkback would be nice :)
 
 Contacts
 ===================================
-Facebook: http://www.facebook.com/arif.amir.165/
-Twitter:http://www.twitter.com/marifamir
-Website: http://www.softexplorers.com
+Facebook: http://www.facebook.com/arif.amir.165/<br />
+Twitter:http://www.twitter.com/marifamir<br />
+Website: http://www.softexplorers.com<br />
 
