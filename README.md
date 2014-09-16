@@ -3,7 +3,7 @@ Gravity-Forms-Active-Campaign-Add-On
 
 Integrates Gravity Forms with Active Campaign allowing form submissions to be automatically sent to your Active Campaign account.
 
-Version 1.2
+Version 1.0
 ===================================
 Author: Muhammad Arif Amir <br />
 Website: http://www.softexplorers.com
