@@ -5,7 +5,7 @@ Integrates Gravity Forms with Active Campaign allowing form submissions to be au
 
 Version 1.2
 ===================================
-Author: Muhammad Arif Amir
+Author: Muhammad Arif Amir <br />
 Website: http://www.softexplorers.com
 
 How to use
